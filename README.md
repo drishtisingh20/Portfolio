@@ -20,6 +20,3 @@ A responsive personal portfolio website created using HTML, CSS, and JavaScript 
 
 This portfolio serves as a personal platform to highlight my development journey and demonstrate frontend web development skills.
 
-▶️ How to Run
-
-Simply open index.html in your browser.
